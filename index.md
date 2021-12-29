@@ -2,6 +2,10 @@
 
 This site will have up to date information on the status of various projects. 
 
+## Site Links
+- [Competitions](https://meepstryker.github.io/comps)
+- [Badges/Certs](https://meepstryker.github.io/certs)
+
 ## Repositories
 
 - [MeepSuite-Public](https://github.com/MeepStryker/MeepSuite-Public)
